@@ -23,8 +23,8 @@ Installation
 
 Clone this repository:
 
-bash   git clone https://github.com/yourusername/grandmother-photo-gallery.git
-   cd grandmother-photo-gallery
+bash   git clone
+   cd grandmother-photo-gallery https://github.com/dumbodtac1222-coder/photo-gallery.2n/
 
 Open index.html in your web browser, or serve locally:
 
@@ -32,10 +32,10 @@ bash   python -m http.server 8000
 
 Visit http://localhost:8000 in your browser
 
-Technologies Used
+# Technologies Used.
 
-HTML5
-CSS3
-JavaScript
+. HTML5
+ .CSS3
+  .JavaScript
 
 
